@@ -1,0 +1,5 @@
+file 'file:C:/Users/Chris/Documents/GitHub/QC-UCI-Manim/media/videos/club_intro/1080p60/partial_movie_files/You/00000.mp4'
+file 'file:C:/Users/Chris/Documents/GitHub/QC-UCI-Manim/media/videos/club_intro/1080p60/partial_movie_files/You/00001.mp4'
+file 'file:C:/Users/Chris/Documents/GitHub/QC-UCI-Manim/media/videos/club_intro/1080p60/partial_movie_files/You/00002.mp4'
+file 'file:C:/Users/Chris/Documents/GitHub/QC-UCI-Manim/media/videos/club_intro/1080p60/partial_movie_files/You/00003.mp4'
+file 'file:C:/Users/Chris/Documents/GitHub/QC-UCI-Manim/media/videos/club_intro/1080p60/partial_movie_files/You/00004.mp4'
